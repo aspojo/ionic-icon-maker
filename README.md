@@ -1,13 +1,14 @@
 # [ionic icon maker](https://github.com/aspojo/ionic-icon-maker)
 
 
-用一个图标创建ionic所需要的一整套图标和欢迎页。*Use one icon to create a complete set of icons and welcome pages that ionic needs.*
-# 一. 要求  *Requirements*
-1. 需要一张1024\*1024的app图标  (Need a 1024\*1024 app icon)
-2. 安装photoshop  (Install photoshop)
-# 二. 使用方法  *How to use*
-1. 打开photoshop  *Open photoshop*
-2. 执行该脚本  *Execute the script*<br>
+用一个图标创建ionic所需要的一整套图标和欢迎页。<br>
+*Use one icon to create a complete set of icons and welcome pages that ionic needs.*
+# 一. 要求  <br>*Requirements*
+1. 需要一张1024\*1024的app图标 <br>*Need a 1024\*1024 app icon*
+2. 安装photoshop  <br>*Install photoshop*
+# 二. 使用方法  <br>*How to use*
+1. 打开photoshop  <br>*Open photoshop*
+2. 执行该脚本  <br>*Execute the script*<br>
 【文件】-->【脚本】-->【浏览】 <br>
 *【File】-->【Script】-->【Browse】*
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210407133705539.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FTX0pPUE8=,size_16,color_FFFFFF,t_70)
