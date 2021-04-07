@@ -1,5 +1,5 @@
 # ionic icon maker
-github 地址 ： 
+github 地址 ： [ionic icon maker](https://github.com/aspojo/ionic-icon-maker)
 用一个图标创建ionic所需要的一整套图标和欢迎页。
 # 一. 要求
 1.需要一张1024*1024的app图标
